@@ -1,0 +1,4 @@
+services:
+#    geek_hub_lesson9.example:
+#        class: GeekHub\Bundle\Lesson9Bundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

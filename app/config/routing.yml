@@ -1,0 +1,3 @@
+geek_hub_lesson9:
+    resource: "@GeekHubLesson9Bundle/Resources/config/routing.yml"
+    prefix:   /

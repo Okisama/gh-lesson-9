@@ -1,0 +1,3 @@
+geek_hub_lesson9_homepage:
+    path:     /
+    defaults: { _controller: GeekHubLesson9Bundle:Default:index }
